@@ -15,3 +15,10 @@
 .cabeçalho-imagem{
      width: 05%;
 }
+.cabeçalho-lista-item a {
+     text-decoration: none;
+     color: aliceblue;
+}
+.escola-imagem{
+     width:25%;
+}
