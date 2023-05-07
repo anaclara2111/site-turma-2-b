@@ -1,0 +1,24 @@
+{
+     margin: 0;
+     padding: 0;
+
+}
+.cabeçalho {
+      background-color: blueviolet;
+      color: aliceblue;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      padding: 12px 0;
+}
+
+.cabeçalho-imagem{
+     width: 05%;
+}
+.cabeçalho-lista-item a {
+     text-decoration: none;
+     color: aliceblue;
+}
+.escola-imagem{
+     width:25%;
+}
